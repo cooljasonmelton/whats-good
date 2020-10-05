@@ -5,7 +5,8 @@ import './BlogContainer.css';
 
 const BlogContainer = () => {
   return (
-    <div className="BlogContainer">
+    <div className="BlogContainer cont-a">
+      
 
     </div>
   );
