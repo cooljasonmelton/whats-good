@@ -7,10 +7,9 @@ const Menu = () => {
   return (
     <div className="Menu cont-a">
       <ul className="cfb">
-        <li>What's Good</li>
         <li>Library</li>
+        <li>What's Good</li>
         <li>Random</li>
-        <li>Contact</li>
       </ul>
     </div>
   );
