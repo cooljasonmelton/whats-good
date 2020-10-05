@@ -1,0 +1,23 @@
+/* https://coolors.co/1f2041-4b3f72-ffc857-119da4-19647e */
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.App {
+    width: 100%;
+}
+
+.cfb {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cont-a {
+    margin: 0.5em;
+    padding: 2em;
+    background-color: #119DA4;
+    border-radius: 1em;
+}

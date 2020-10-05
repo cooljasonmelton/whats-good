@@ -1,0 +1,21 @@
+.Menu {
+    width: 50%;
+}
+
+.Menu > ul {
+    justify-content: space-between;
+}
+
+.Menu > ul > li {
+    list-style-type: none;
+    white-space: nowrap;
+}
+
+@media only screen and (max-width: 44em) {
+    .Menu{ 
+        margin-left: 0;
+        margin-right: 0;
+        border-radius: 0;
+        width: 100%; 
+    }
+}

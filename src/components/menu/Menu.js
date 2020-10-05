@@ -5,8 +5,12 @@ import './Menu.css';
 
 const Menu = () => {
   return (
-    <div className="Menu">
-
+    <div className="Menu cont-a">
+      <ul className="cfb">
+        <li>Library</li>
+        <li>What's Good</li>
+        <li>Random</li>
+      </ul>
     </div>
   );
 }
