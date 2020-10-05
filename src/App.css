@@ -1,0 +1,11 @@
+/* https://coolors.co/1f2041-4b3f72-ffc857-119da4-19647e */
+
+.App{
+    width: 100%;
+}
+
+.cfb{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
