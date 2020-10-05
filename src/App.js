@@ -8,7 +8,7 @@ import Menu from './components/menu/Menu'
 
 const App = () => {
   return (
-    <div className="App">
+    <div className="App cfb">
       <Menu/>
 
 
