@@ -28,9 +28,5 @@
 
 .cont-b {
     margin: 0.5em;
-    padding: 2em;
-
-    border-radius: 1em;
-    border: 1px solid #4B3F72;
-    background-color: #F6A2BA;
+    padding: 1em;
 }
