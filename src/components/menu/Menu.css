@@ -3,12 +3,14 @@
 }
 
 .Menu > ul {
-    justify-content: space-between;
+    justify-content: space-around;
 }
 
 .Menu > ul > li {
     list-style-type: none;
+    font-weight: bold;
     white-space: nowrap;
+    color: #1F2041;
 }
 
 @media only screen and (max-width: 44em) {
