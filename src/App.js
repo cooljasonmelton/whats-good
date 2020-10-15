@@ -1,5 +1,8 @@
 import React from 'react';
 
+// router 
+import { BrowserRouter, Route, Switch } from 'react-router-dom';
+
 // styling
 import './App.css';
 
@@ -9,12 +12,18 @@ import BlogContainer from './components/blog/BlogContainer';
 
 const App = () => {
   return (
-    <div className="App cfb">
-      <Menu/>
-      <BlogContainer/>
+    <BrowserRouter>
+      <div className="App cfb">
+        <Menu/>
+        <BlogContainer/>
 
-
-    </div>
+        <Switch>
+          <Route path="/" component={null} />
+          <Route path="/" component={null} />
+          <Route path="/" component={null} />
+        </Switch>
+      </div>
+    </BrowserRouter>
   );
 }
 
