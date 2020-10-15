@@ -5,8 +5,6 @@ font - https://fonts.google.com/specimen/Lora# whats-good
 
 
 TO DO:
-
-
 - ADMIN
 admin access to get to form to write blogs and store on cloud
 
@@ -25,3 +23,6 @@ button that pulls up random blog
 - MENU
 navigation items
 turns to dropdown on small screen
+
+- STRETCH:
+darkmode
