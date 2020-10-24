@@ -1,5 +1,4 @@
-/* https://coolors.co/1f2041-4b3f72-ffc857-edfcfd-119da4-19647e-f6a2ba-fac7d5 */
-
+/* https://coolors.co/f5f6f4-2d2a32-580e20 */
 * {
     padding: 0;
     margin: 0;
@@ -21,9 +20,9 @@
     padding: 2em;
 
     border-radius: 1em;
-    border: 1px solid #1F2041;
-    box-shadow: 1px 2px 2px #1F2041;
-    background-color: #FAC7D5;
+    border: 1px solid #2D2A32;
+    box-shadow: 1px 2px 2px #2D2A32;
+    background-color: #F5F6F4;
 }
 
 .cont-b {
