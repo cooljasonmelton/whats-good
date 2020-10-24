@@ -7,10 +7,13 @@
 }
 
 .Menu > ul > li {
+    
     list-style-type: none;
+    
+    color: #2D2A32;
     font-weight: bold;
+    font-size: 2rem;
     white-space: nowrap;
-    color: #1F2041;
 }
 
 @media only screen and (max-width: 44em) {
